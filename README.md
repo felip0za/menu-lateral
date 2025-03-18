@@ -1,11 +1,12 @@
-# React + Vite
+# MENU LATERAL
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Menu lateral para usar nos seus projetos pessoais de REACT.js
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##Como baixar ANTDesign
 
-https://www.youtube.com/watch?v=-e3-wtPmGLg&t=789s
-como baixar cada biblioteca do ant design
+### 1. Codigo para baixar
+
+```bash
+npm install antd
+```
